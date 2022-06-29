@@ -1,0 +1,7 @@
+C:\Users\Kspades\OneDrive\Desktop\exam\exam\bin\Debug\exam.exe.config
+C:\Users\Kspades\OneDrive\Desktop\exam\exam\bin\Debug\exam.exe
+C:\Users\Kspades\OneDrive\Desktop\exam\exam\bin\Debug\exam.pdb
+C:\Users\Kspades\OneDrive\Desktop\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\Kspades\OneDrive\Desktop\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Kspades\OneDrive\Desktop\exam\exam\obj\Debug\exam.exe
+C:\Users\Kspades\OneDrive\Desktop\exam\exam\obj\Debug\exam.pdb
